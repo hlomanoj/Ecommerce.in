@@ -1,7 +1,7 @@
 ## ✨  E-Commerce Online Shop Design ✨
 E-Commerce Online Shop Design made in HTML5 &amp; SCSS with JavaScript.
 
-https://gosiacodes.github.io/E-Commerce-Online-Shop-Design/
+
 
 ## :pushpin: _How does the website look?_
 
@@ -30,3 +30,5 @@ Website has responsive design.
 <img src="/img/Online_Shop_6.png" width="300" height="auto" alt="Example index 6"/>
 
 <img src="/img/Online_Shop_7.png" width="300" height="auto" alt="Example index 7"/>
+
+Copyright@2025|| Manoj Yadav
